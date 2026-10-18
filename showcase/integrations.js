@@ -25,7 +25,7 @@
   const panel = document.createElement('section');
   panel.className = 'consent-panel';
   panel.setAttribute('aria-label', 'Analytics privacy preferences');
-  panel.innerHTML = '<div><strong>Help us improve Casify?</strong><p>With your permission, Microsoft Clarity records interactions to help us improve this showcase. Advertising consent stays off. <a href="/privacy.html">Privacy details</a></p></div><div class="consent-actions"><button type="button" data-consent="denied">Decline analytics</button><button type="button" data-consent="granted">Allow analytics</button></div>';
+  panel.innerHTML = '<div><strong>Help us improve Cassify?</strong><p>With your permission, Microsoft Clarity records interactions to help us improve this showcase. Advertising consent stays off. <a href="/privacy.html">Privacy details</a></p></div><div class="consent-actions"><button type="button" data-consent="denied">Decline analytics</button><button type="button" data-consent="granted">Allow analytics</button></div>';
   document.body.appendChild(panel);
   const settings = document.createElement('button');
   settings.type = 'button';

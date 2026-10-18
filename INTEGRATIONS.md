@@ -1,4 +1,4 @@
-# Casify integration handoff
+# Cassify integration handoff
 
 Production showcase: https://casify-two.vercel.app/
 
@@ -9,7 +9,7 @@ Project yz7o35ev8e. integrations.js loads Clarity only on the production homepag
 URL-prefix property https://casify-two.vercel.app/ verified using the HTML tag in index.html. Sitemap submitted successfully; Search Console reports Success and two discovered pages on 18 October 2026. This does not guarantee indexing. Keep the verification tag during future redesigns.
 
 ## Dodo Payments
-TEST product pdt_0NpzXMK1UMHHFSWaw7WZ0: Casify Premium — TEST, INR 200 monthly, tax-inclusive, Edtech category. Hosted payment link: https://test.checkout.dodopayments.com/buy/pdt_0NpzXMK1UMHHFSWaw7WZ0?quantity=1
+TEST product pdt_0NpzXMK1UMHHFSWaw7WZ0: Cassify Premium — TEST, INR 200 monthly, tax-inclusive, Edtech category. Hosted payment link: https://test.checkout.dodopayments.com/buy/pdt_0NpzXMK1UMHHFSWaw7WZ0?quantity=1
 
 The homepage links to /billing-test.html, a clearly marked sandbox demonstration. No secret API key is needed for this hosted link. No live payment, webhook, account mapping, subscription entitlement, or secure membership backend exists. Checkout rendering and the displayed price were verified; a payment was not submitted.
 

@@ -1,4 +1,4 @@
-# Casify: continue from the showcase
+# Cassify: continue from the showcase
 
 ## Existing work
 
@@ -16,7 +16,7 @@ Keep the existing showcase as the visual reference. Save future product work to 
 
 ## Paste this as the first prompt
 
-Continue Casify from this imported repository. Inspect EMERGENT_HANDOFF.md and showcase/ first. Preserve the current responsive lime-and-charcoal landing page, typography, artwork and brand. Casify helps college students prepare for business case competitions through progressively harder levels. Early levels are free, advanced access is premium, and the primary long-term buyers are universities, consulting clubs and case societies purchasing cohort access. This is a case-preparation learning platform, not a competition-registration portal.
+Continue Cassify from this imported repository. Inspect EMERGENT_HANDOFF.md and showcase/ first. Preserve the current responsive lime-and-charcoal landing page, typography, artwork and brand. Cassify helps college students prepare for business case competitions through progressively harder levels. Early levels are free, advanced access is premium, and the primary long-term buyers are universities, consulting clubs and case societies purchasing cohort access. This is a case-preparation learning platform, not a competition-registration portal.
 
 Build the MVP in stages on an emergent-mvp branch. First explain the proposed stack and deployment plan, then implement stage 1: student sign-up/sign-in, a case library, a case detail/attempt page, saved drafts and submissions, and a personal dashboard showing actual progress. Seed only original or clearly permitted cases with source/licensing notes. Use a simple, explicit rubric; do not claim automated scoring or feedback exists unless implemented. Prevent users from reading or editing other students' attempts. Include loading, empty, validation, and error states.
 

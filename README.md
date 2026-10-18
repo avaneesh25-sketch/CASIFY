@@ -1,4 +1,4 @@
-# Casify - Case Competition Platform
+# Cassify - Case Competition Platform
 
 This is a responsive, feature-rich template app designed to host and track Case Competitions. Built with HTML, Tailwind CSS, and lightweight interactions.
 
